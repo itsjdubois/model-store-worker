@@ -1,1 +1,4 @@
-runpod==1.7.12
+runpod==1.7.13
+torch>=2.9.1
+transformers>=4.35.0
+accelerate>=0.24.0
